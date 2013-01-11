@@ -1,4 +1,4 @@
-sbscripts
+SboHelper
 =========
 
 My scripts collection as helper to install package using SlackBuilds script. You can use it if you like to.
