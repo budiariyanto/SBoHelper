@@ -1,7 +1,7 @@
 sbscripts
 =========
 
-My scripts collection as helper to install package using SlackBuilds script. 
+My scripts collection as helper to install package using SlackBuilds script. You can use it if you like to.
 The goal is helping slackbuild installation easier and cleaning the extracted slackbuild package.
 
 variable.sh use to configure the version of the package.
