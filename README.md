@@ -1,7 +1,7 @@
 SboHelper
 =========
 
-My scripts collection as helper to install package using SlackBuilds script. You can use it if you like to.
+My scripts collection as helper to install a set of my packages using SlackBuilds script. You can use it if you like to.
 The goal is helping slackbuild installation easier and cleaning the extracted slackbuild package.
 
 Usage:
